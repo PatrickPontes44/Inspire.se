@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PatrickPontes44/Inspire.se/static/css/main.876a994a.chunk.css",
-    "main.js": "/PatrickPontes44/Inspire.se/static/js/main.79847e6b.chunk.js",
-    "main.js.map": "/PatrickPontes44/Inspire.se/static/js/main.79847e6b.chunk.js.map",
-    "runtime-main.js": "/PatrickPontes44/Inspire.se/static/js/runtime-main.f117c5b9.js",
-    "runtime-main.js.map": "/PatrickPontes44/Inspire.se/static/js/runtime-main.f117c5b9.js.map",
-    "static/js/2.da6a0e7a.chunk.js": "/PatrickPontes44/Inspire.se/static/js/2.da6a0e7a.chunk.js",
-    "static/js/2.da6a0e7a.chunk.js.map": "/PatrickPontes44/Inspire.se/static/js/2.da6a0e7a.chunk.js.map",
-    "index.html": "/PatrickPontes44/Inspire.se/index.html",
-    "precache-manifest.9b837c511e9a82b1ca644cdd906efe1f.js": "/PatrickPontes44/Inspire.se/precache-manifest.9b837c511e9a82b1ca644cdd906efe1f.js",
-    "service-worker.js": "/PatrickPontes44/Inspire.se/service-worker.js",
+    "main.css": "/Inspire.se/static/css/main.876a994a.chunk.css",
+    "main.js": "/Inspire.se/static/js/main.79847e6b.chunk.js",
+    "main.js.map": "/Inspire.se/static/js/main.79847e6b.chunk.js.map",
+    "runtime-main.js": "/Inspire.se/static/js/runtime-main.f117c5b9.js",
+    "runtime-main.js.map": "/Inspire.se/static/js/runtime-main.f117c5b9.js.map",
+    "static/js/2.da6a0e7a.chunk.js": "/Inspire.se/static/js/2.da6a0e7a.chunk.js",
+    "static/js/2.da6a0e7a.chunk.js.map": "/Inspire.se/static/js/2.da6a0e7a.chunk.js.map",
+    "index.html": "/Inspire.se/index.html",
+    "precache-manifest.9b837c511e9a82b1ca644cdd906efe1f.js": "/Inspire.se/precache-manifest.9b837c511e9a82b1ca644cdd906efe1f.js",
+    "service-worker.js": "/Inspire.se/service-worker.js",
     "static/css/main.876a994a.chunk.css.map": "/PatrickPontes44/Inspire.se/static/css/main.876a994a.chunk.css.map",
-    "static/js/2.da6a0e7a.chunk.js.LICENSE.txt": "/PatrickPontes44/Inspire.se/static/js/2.da6a0e7a.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/PatrickPontes44/Inspire.se/static/media/bg2.30679830.png"
+    "static/js/2.da6a0e7a.chunk.js.LICENSE.txt": "/Inspire.se/static/js/2.da6a0e7a.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/Inspire.se/static/media/bg2.30679830.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f117c5b9.js",
